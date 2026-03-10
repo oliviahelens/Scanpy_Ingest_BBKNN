@@ -1,5 +1,5 @@
 # Scanpy_Ingest_BBKNN
-Single-cell RNA-seq data integration using Scanpy's ingest() and BBKNN, following the scverse tutorial. Demonstrates PCA-based label transfer and batch correction on PBMC and pancreas datasets.
+Single-cell RNA-seq data integration comparing Scanpy's ingest() and BBKNN methods. Demonstrates PCA-based label transfer and batch correction on PBMC and pancreas datasets.
 
 ## Overview
 
